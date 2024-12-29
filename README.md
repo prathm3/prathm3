@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **ML, LLM.**
 
+- 🤝 I’m currently working on idea of **RocksDB-inspired systems in Go**
+
 - 💬 Ask me about **Spring, ReactJS, Java**
 
 - 📫 How to reach me **prathmeshdeshpande101@gmail.com**
